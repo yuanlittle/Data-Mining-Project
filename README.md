@@ -1,7 +1,7 @@
 # Data-Mining-Project
 Compared various learning algorithms on selected data sets.
 Author: Jingsong Yuan
-*******Copyright All Reserved.******
+******All Rights Reserved.******
 This is a data mining project using R.
 The following algorithms are test on selected data:
 1. Gradient boosting
